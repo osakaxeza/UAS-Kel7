@@ -78,3 +78,8 @@ void kelolaMenu()
         }
     } while (pilihan != 3);
 }
+int main()
+{
+    kelolaMenu();
+    return 0;
+}
